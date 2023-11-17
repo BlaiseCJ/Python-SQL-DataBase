@@ -1,2 +1,2 @@
 # Python-SQL-DataBase
-Python libraries and models such as Pandas, Numpy, Random, Faker and so on are employed to generate a database of the police. The database has three tables formed from three dataframes. Each table has four or more columns and each column has 1000 rows.
+Python libraries and models such as Pandas, Numpy, Random, Faker and so on are employed to generate a database of the police. The database has three tables formed from three dataframes. Each table has four or more columns and each column has 1000 rows.The tables were convereted to CSV files and then moved to SQLite Browser where SQL queries and joins were made on them regarding the Primary Key, Foreign Key and the Composite Key.
